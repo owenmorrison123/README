@@ -4,3 +4,22 @@ Binary addition is Less numbers but more thinking. Since we aren't used to addin
 0 + 0 = 0
 1 + 1 = 1 0 (carry the one to the next line)
 In Binary there are only 2 digits so there are no hundreds, tens, thousandths. You say the numbers you have, so 1 0 would read one zero, opposed to in the numbers we know it would read ten. 
+# Half Adder
+A half adder is a circuit that takes two inputs, A and B, and turns them into outputs, S (sum of A and B) and C (carry out). It uses am XOR gate and an AND gate to perform the addition
+# Truth Table
+![Half Adder Truth Table](https://github.com/user-attachments/assets/d26264f8-d13a-4767-a24c-acd0be1d737d)
+
+![Half Adder adding](https://github.com/user-attachments/assets/c31a1d06-d70a-434e-845e-27a65ec49e5b)
+
+This is how the adding would work for binary. As you can see they carry the one because 1 + 1 = 1 0
+
+![truth table explanation](https://github.com/user-attachments/assets/6d954067-7ae1-4766-8889-c8795ec026fc)
+
+As you can see the two inputs make two outputs. The adding works the same as a truth table. This is a way that you could help yourself with the adding if you struggle but understand the concept of truth tables.
+
+![Logic Gate](https://github.com/user-attachments/assets/b592efbe-1f45-4bca-8fa9-dd405a34d557)
+
+# Diagrams
+
+![Diagram](https://github.com/user-attachments/assets/eefa63a2-96d9-401a-9b34-8a3643b22e96)
+
