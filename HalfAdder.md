@@ -23,3 +23,22 @@ As you can see the two inputs make two outputs. The adding works the same as a t
 
 ![Diagram](https://github.com/user-attachments/assets/eefa63a2-96d9-401a-9b34-8a3643b22e96)
 
+![Half adder circuit 0 + 1](https://github.com/user-attachments/assets/4649b474-d6de-43c0-baa8-9ce7826a6ed3)
+
+This is what it would look like with binary addition of 1 + 1
+
+![Half adder circuit 2](https://github.com/user-attachments/assets/cc03aee2-c7e6-4c54-87d3-8070f506592b)
+
+This is what it would look like if you added the binary 0 + 1
+
+
+![half adder computer](https://github.com/user-attachments/assets/2b65f5dd-e601-4454-93c2-1b507236d770)
+
+This is a motherboard of a computer and as you can tell they are very intricate. They have half adders in them.
+
+# Sources
+eBay. (n.d.). Pro 286/386 ST motherboard image. Retrieved February 13, 2025, from https://www.ebay.it/itm/172735657823
+
+Matthew Justice. (n.d.). How Computers Really Work. Retrieved February 13, 2025, from https://platform.virdocs.com/read/1541540/15/#/4/266/12
+
+
