@@ -41,4 +41,4 @@ eBay. (n.d.). Pro 286/386 ST motherboard image. Retrieved February 13, 2025, fro
 
 Matthew Justice. (n.d.). How Computers Really Work. Retrieved February 13, 2025, from https://platform.virdocs.com/read/1541540/15/#/4/266/12
 
-
+ScienceDirect. (n.d.). Half adder. Retrieved February 13, 2025, from https://www.sciencedirect.com/topics/computer-science/half-adder#:~:text=A%20half%20adder%20is%20a,out%20from%20the%20previous%20column
